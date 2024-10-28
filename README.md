@@ -14,8 +14,7 @@ This project aims to build a medical diagnosis model using deep learning techniq
 6. [Usage](#usage)
 7. [Results](#results)
 8. [Limitations and Future Work](#limitations-and-future-work)
-9. [Contributing](#contributing)
-10. [License](#license)
+
 
 ## Features
 - **Automated Diagnosis**: Provides diagnostic predictions based on patient data.
